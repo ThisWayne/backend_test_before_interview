@@ -1,6 +1,6 @@
 # resume management system schema
 
-## requirment questions
+## requirement questions
 
 - In the use case 1, is the format itself data? Should we store the format data in the database? Or the formats are static/hardcoded in the frontend?
 
